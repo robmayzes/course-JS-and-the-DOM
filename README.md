@@ -1,1 +1,1 @@
-This is my own version, forked from the Udacity repo
+This is my own repo, forked from the Udacity repo.
